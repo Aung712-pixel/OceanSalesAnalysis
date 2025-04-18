@@ -1,9 +1,9 @@
 # OceanSalesAnalysis
-# 🛒 Grocery Sales Data Analysis & Dashboard
+#  Grocery Sales Data Analysis & Dashboard
 
 This project involves end-to-end data analysis of a grocery dataset sourced from a retail chain, aimed at uncovering business insights and presenting them through a clear, interactive dashboard.
 
-## 📌 Project Objective
+##  Project Objective
 
 The main goal of this project was to:
 - Clean and preprocess a raw dataset
@@ -13,7 +13,7 @@ The main goal of this project was to:
 
 ---
 
-## 📂 Dataset Overview
+##  Dataset Overview
 
 The dataset includes sales data from a grocery chain, containing attributes like:
 - **Outlet Size & Type**
@@ -25,7 +25,7 @@ The dataset includes sales data from a grocery chain, containing attributes like
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 - Microsoft Excel (for preprocessing & visualization)
 - Excel Dashboard
@@ -33,7 +33,7 @@ The dataset includes sales data from a grocery chain, containing attributes like
 
 ---
 
-## 🔍 Analysis Workflow
+##  Analysis Workflow
 
 ### 1. Data Cleaning
 - Removed missing and inconsistent values
@@ -67,7 +67,7 @@ The dataset includes sales data from a grocery chain, containing attributes like
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 - **Tier 3 locations** generated the highest total sales ($472.1K)
 - **Regular fat content items** contributed 65% of overall revenue
@@ -76,7 +76,7 @@ The dataset includes sales data from a grocery chain, containing attributes like
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Integrate dynamic slicers using Power BI or Tableau
 - Incorporate time series forecasting for sales trends
